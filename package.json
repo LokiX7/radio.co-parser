@@ -19,6 +19,7 @@
   "homepage": "https://github.com/LokiX7/radio.co_tracklist_parser#readme",
   "dependencies": {
     "@types/node": "^18.7.18",
-    "axios": "^0.27.2"
+    "axios": "^0.27.2",
+    "typescript": "^4.8.3"
   }
 }
