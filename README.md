@@ -8,7 +8,7 @@ Simple parser for JSON format track lists from public.radio.co
 2. Clone this repository:
   ```
   $ cd
-  $ git clone https://github.com/LokiX7/radio.co_tracklist_parser.git
+  $ git clone https://github.com/LokiX7/radio.co-parser.git
   ```
 3. Move to repository folder and install dependencies:
   ```
