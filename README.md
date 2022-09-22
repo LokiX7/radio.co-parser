@@ -7,13 +7,13 @@ Simple parser for JSON format track lists from public.radio.co
 1. Install **npm** and **node.js** if you dont have it.
 2. Clone this repository:
   ```
-  $ cd
-  $ git clone https://github.com/LokiX7/radio.co-parser.git
+  cd
+  git clone https://github.com/LokiX7/radio.co-parser.git
   ```
 3. Move to repository folder and install dependencies:
   ```
-  $ cd radio.co_tracklist_parser
-  $ npm install
+  cd radio.co_tracklist_parser
+  npm install
   ```
 4. Open **settings.ts** and configure parser options:
   - `STATION_ID` - ID of the station you want to parse. 
@@ -31,7 +31,7 @@ Simple parser for JSON format track lists from public.radio.co
 
 5. Run parser: 
       ```
-      $ npm start
+      npm start
       ```
 
 6. By default track list stored in tracks.txt in app folder.
