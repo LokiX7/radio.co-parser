@@ -78,7 +78,7 @@ async function sortTracks(tracks: trackType[]): Promise<trackType[]> {
 
 
 async function saveTracks(tracks: trackType[]): Promise<void> {
-    const destination = path.join(DIRNAME, FILENAME);
+    const destination = path.join(DIRNAME, '..', FILENAME);
 
     await fs.writeFile(destination, '');
     
