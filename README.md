@@ -12,7 +12,7 @@ Simple parser for JSON format track lists from public.radio.co
   ```
 3. Move to repository folder and install dependencies:
   ```
-  cd radio.co_tracklist_parser
+  cd radio.co-parser
   npm install
   ```
 4. Open **settings.ts** and configure parser options:
